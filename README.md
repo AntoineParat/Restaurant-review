@@ -34,7 +34,7 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 I've used the following resource in order to complete the project:
 __ServiceWoker:__
-- [Google Web Fundamentals] (https://developers.google.com/web/fundamentals/primers/service-workers/). This resource helped me to set up the ServiceWorker.
+- [Google Web Fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/). This resource helped me to set up the ServiceWorker.
 
 
 
