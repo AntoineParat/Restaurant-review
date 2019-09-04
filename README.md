@@ -2,6 +2,8 @@
 ---
 ## Restaurant Review App - Stage 1, a Udacity's project
 
+![enter image description here](https://www.antoineparat.com/img/reviews.png)
+
 ## Table of Contents
 
 * [Project Overview](#Project-Overview)
