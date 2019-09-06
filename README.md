@@ -18,7 +18,7 @@ This project is part of the __Frontend Web Developer Nanodegree (Google scholars
 
 ## Project Overview
 
-A starter code containing the app main code has been provided. The requirement for pass the project was to make the app full responsive for the most common devices viewports (both style and images), make it accessibile (using proper semantic elements and ARIA-labels, alt attributes for any image and ARIA-roles) and implementing a Service Worker to provide offline experiences. .
+A starter code containing the app main code has been provided. The requirement for pass the project was to make the app full responsive for the most common devices viewports (both style and images), make it accessibile (using proper semantic elements and ARIA-labels, alt attributes for any image and ARIA-roles) and implementing a Service Worker to provide offline experiences.
 
 ## Installation
 
